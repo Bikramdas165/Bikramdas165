@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bikram Das</h1>
 <h3 align="center">A passionate Developer With Autodidacticism Mindset:)</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Bikramdas165/Bikramdas165/blob/main/avento.gif">
 
 
 <p align="left"> <a href="https://twitter.com/git_bikram" target="blank"><img src="https://img.shields.io/twitter/follow/git_bikram?logo=twitter&style=for-the-badge" alt="git_bikram" /></a> </p>
